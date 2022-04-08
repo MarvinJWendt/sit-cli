@@ -1,4 +1,4 @@
-module github.com/pterm/cli-template
+module github.com/MarvinJWendt/sit-cli
 
 go 1.16
 
